@@ -23,7 +23,7 @@ C | C++ | Python | MATLAB | Verilog | LTSpice | Cadence<br/>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://shorturl.at/MhEm3) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://shorturl.at/MhEm3)
 [![Mail](https://img.shields.io/badge/Mail-%230077B5.svg?logo=linkedin&logoColor=white)](kishan13majithia@gmail.com)
 
 # 💻 Tech Stack:
