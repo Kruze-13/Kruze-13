@@ -17,7 +17,7 @@ C | C++ | Python | MATLAB | Verilog | LTSpice | Cadence<br/>
 
 * Deep learning architectures<br/>
 
-📌 Let’s connect on [LinkedIn](www.linkedin.com/in/kishan-dinesh-majithia-286238248) or check out my builds and experiments here on GitHub!<br/>
+📌 Let’s connect on [LinkedIn]( www.linkedin.com/in/kishan-dinesh-majithia-286238248 ) or check out my builds and experiments here on GitHub!<br/>
 
 
 
