@@ -1,13 +1,13 @@
 ## Hi, I’m Kishan Majithia ✌️
 Electronics & Communication Engineering Student | Passionate about Embedded Systems, AI/ML & VLSI | Open Source Enthusiast<br/> 
 
-🚀 I’m an aspiring hardware hacker and ML enthusiast with a strong foundation in circuit design, digital systems, and Python-based AI/ML workflows. I thrive at the intersection of hardware and software—whether it’s building an electricity-generating football ⚽️ or researching cost-effective SAW sensors 🔬.<br/>
+🚀 I’m an aspiring hardware hacker and ML enthusiast while building a foundation in circuit design, digital systems, and Python-based AI/ML workflows. I thrive at the intersection of hardware and software, whether it’s building an electricity-generating football ⚽️ or researching cost-effective SAW sensors 🔬. My intrests also lie in Product Management and SAP, which I  aim to collaborate my skills on AI/ML to deliver new products into the market taking Management processes to the higher level<br/>
 
-💡 I love designing innovative solutions that solve real-world problems—especially in embedded systems, robotics, and sustainable tech.<br/>
+💡 I love designing innovative solutions that solve real-world problems—especially in embedded systems, robotics, business management and sustainable tech.<br/>
 
 🔧 Tech Stack & Tools:
-C | C++ | Python | MATLAB | Verilog | LTSpice | Cadence<br/>
-🖥️ Domains: Embedded Systems, VLSI, AI/ML, Digital Design<br/>
+C | C++ | Python | MATLAB | Verilog | LTSpice | Cadence | Excel | Powerpoint | <br/>
+🖥️ Domains: Embedded Systems, Circuit Theory, AI/ML, Product Management<br/>
 
 🌱 Currently exploring:
 
@@ -15,7 +15,11 @@ C | C++ | Python | MATLAB | Verilog | LTSpice | Cadence<br/>
 
 * Nanotech applications in electronics
 
-* Deep learning architectures<br/>
+* Machine learning architectures
+
+* SAP - Hanna and SAP - ERC
+
+* Business Product Solutions<br/>
 
 
 
